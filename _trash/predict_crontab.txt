@@ -1,0 +1,1 @@
+0 8 * * * bash $HOME/ai_trading_bot/predict/run_predict_cron.sh

@@ -1,0 +1,2 @@
+SELL BTC/USD (Confidence: 0.82)
+BUY ETH/USD (Confidence: 0.91)

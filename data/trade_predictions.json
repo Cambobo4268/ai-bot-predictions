@@ -1,0 +1,17 @@
+[
+  {
+    "symbol": "BTC/USD",
+    "decision": "SELL",
+    "confidence": 0.82
+  },
+  {
+    "symbol": "ETH/USD",
+    "decision": "BUY",
+    "confidence": 0.91
+  },
+  {
+    "symbol": "DOGE/USD",
+    "decision": "HOLD",
+    "confidence": 0.45
+  }
+]

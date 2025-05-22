@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/ai_trading_bot/build/CMakeFiles/ai_trading_bot.dir
+/data/data/com.termux/files/home/ai_trading_bot/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/ai_trading_bot/build/CMakeFiles/rebuild_cache.dir

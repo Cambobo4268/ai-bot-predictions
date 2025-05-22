@@ -1,0 +1,2 @@
+timestamp,symbol,decision,price,volume,volatility,percent_change,rsi,balance_before,outcome,prediction
+2025-05-04T03:24:22.196880,BODEN/USD,SELL,0.00247,3149972.64578,14.864864864864863,11.26126126126125,91.18,8640.207443018,PENDING,1

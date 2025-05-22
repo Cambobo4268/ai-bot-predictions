@@ -1,0 +1,8 @@
+Downloading...
+From: https://drive.google.com/uc?id=1CNblTD_eGoW6mVUgmkDdEDeY9BEIKpCz
+To: /data/data/com.termux/files/home/ai_trading_bot/ai/trade_outcome_model.onnx
+  0%|          | 0.00/44.5k [00:00<?, ?B/s]100%|██████████| 44.5k/44.5k [00:00<00:00, 6.10MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1CNblTD_eGoW6mVUgmkDdEDeY9BEIKpCz
+To: /data/data/com.termux/files/home/ai_trading_bot/ai/trade_outcome_model.onnx
+  0%|          | 0.00/44.5k [00:00<?, ?B/s]100%|██████████| 44.5k/44.5k [00:00<00:00, 989kB/s]

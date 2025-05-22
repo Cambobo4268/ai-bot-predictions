@@ -1,0 +1,86 @@
+{
+  "balance": 10368.370133858,
+  "history": [
+    {
+      "time": "2025-05-04T03:14:35.766710",
+      "symbol": "MUBARAK/USD",
+      "decision": "BUY",
+      "price": 0.03269,
+      "units": 30590.3946,
+      "portion": 1000.0,
+      "new_balance": 4000.0
+    },
+    {
+      "time": "2025-05-04T03:14:36.914992",
+      "symbol": "CHEEMS/USD",
+      "decision": "SELL",
+      "price": 1.5e-06,
+      "units": 666666666.6667,
+      "portion": 1000.0,
+      "new_balance": 6000.0
+    },
+    {
+      "time": "2025-05-04T03:18:40.965968",
+      "symbol": "MUBARAK/USD",
+      "decision": "SELL",
+      "price": 0.03269,
+      "units": 36708.4735,
+      "portion": 1200.0,
+      "new_balance": 7200.06
+    },
+    {
+      "time": "2025-05-04T03:18:42.187689",
+      "symbol": "CHEEMS/USD",
+      "decision": "SELL",
+      "price": 1.5448e-06,
+      "units": 776799585.7069,
+      "portion": 1200.0,
+      "new_balance": 7200.0
+    },
+    {
+      "time": "2025-05-04T03:18:43.512471",
+      "symbol": "BODEN/USD",
+      "decision": "SELL",
+      "price": 0.00248,
+      "units": 483870.9677,
+      "portion": 1200.0,
+      "new_balance": 7200.0
+    },
+    {
+      "time": "2025-05-04T03:18:44.978723",
+      "symbol": "STEP/USD",
+      "decision": "SELL",
+      "price": 0.0762,
+      "units": 15748.0315,
+      "portion": 1200.0,
+      "new_balance": 7200.09
+    },
+    {
+      "time": "2025-05-04T03:20:25.440853",
+      "symbol": "STEP/USD",
+      "decision": "SELL",
+      "price": 0.0762,
+      "units": 18897.9003,
+      "portion": 1440.02,
+      "new_balance": 8640.21
+    },
+    {
+      "time": "2025-05-04T03:24:22.194907",
+      "symbol": "BODEN/USD",
+      "decision": "SELL",
+      "price": 0.00247,
+      "units": 699611.336,
+      "portion": 1728.04,
+      "new_balance": 10368.25
+    },
+    {
+      "time": "2025-05-04T03:24:25.088636",
+      "symbol": "STEP/USD",
+      "decision": "SELL",
+      "price": 0.0762,
+      "units": 22677.6903,
+      "portion": 1728.04,
+      "new_balance": 10368.37
+    }
+  ]
+}
