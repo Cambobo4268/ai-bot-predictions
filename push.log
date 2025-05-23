@@ -243,3 +243,10 @@ error: additionally, your index contains uncommitted changes.
 error: Please commit or stash them.
 [main cad2f04] Auto-update: $(date '+%Y-%m-%d %H:%M:%S')
  1 file changed, 7 insertions(+)
+To https://github.com/Cambobo4268/ai-bot-predictions.git
+   6c23484..cad2f04  main -> main
+error: cannot pull with rebase: You have unstaged changes.
+error: additionally, your index contains uncommitted changes.
+error: Please commit or stash them.
+[main 2d38f34] Auto-update: $(date '+%Y-%m-%d %H:%M:%S')
+ 1 file changed, 7 insertions(+)
